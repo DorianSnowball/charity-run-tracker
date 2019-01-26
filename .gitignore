@@ -1,0 +1,6 @@
+*.csproj
+*.csproj.user
+*.pfx
+/bin
+/obj
+/Properties
